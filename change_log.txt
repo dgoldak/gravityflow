@@ -1,5 +1,1 @@
 - Added the filter gravityflow_next_step to allow customization of the next step for workflow processing (example - restart a completed user input step for new assignees to action)
-- Fixed the Gravity Perks Nested Forms Add-On integration not delaying the workflow for child entries created before the parent form is submitted.
-- Fixed an issue where Conditional Routing based on what values a Multiuser field contains could lead to extra users being set as step assignees.
-- Fixed conditional assignee routing using the post category field.
-- Fixed the inbox page excess entries indicator displaying a limit of 150 when the page size has been changed using the gravityflow_inbox_paging filter.
