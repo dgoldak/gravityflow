@@ -1,1 +1,4 @@
 - Added the filter gravityflow_next_step to allow customization of the next step for workflow processing (example - restart a completed user input step for new assignees to action)
+- Added security enhancement.
+- Fixed an issue where workflows don't start when the entry is created before the init action.
+
